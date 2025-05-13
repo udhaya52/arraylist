@@ -14,7 +14,7 @@ public class maximum {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int arr[]= {10,21,43,54,12};
-		System.out.println(max(arr,0,Integer.MIN_VALUE));
+		System.out.println(max(arr,0,Integer.MIN_VALUE));      
 
 	}
 
